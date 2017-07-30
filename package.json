@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-bot",
+  "version": "1.0.0",
+  "description": "sample chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekdDelivery/helloWorldBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekdDelivery/helloWorldBot/issues"
+  },
+  "homepage": "https://github.com/ekdDelivery/helloWorldBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.0.1"
+  }
+}
